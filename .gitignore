@@ -1,0 +1,5 @@
+.idea/*
+.idea/vcs.xml
+build
+lib
+node_modules
