@@ -1,6 +1,6 @@
 {
   "name": "@genie-solutions/sms-calc",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "A Utility for calculating SMS credits",
   "main": "lib/index.js",
   "scripts": {
