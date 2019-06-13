@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "outDir": "lib",
+      "target": "es6",
+      "lib": [ "es2017" ],
+      "moduleResolution": "node",
+      "allowSyntheticDefaultImports": true,
+      "suppressImplicitAnyIndexErrors": true,
+      "forceConsistentCasingInFileNames": true,
+      "esModuleInterop": true,
+      "noImplicitReturns": true,
+      "noImplicitAny": true,
+      "strictNullChecks": true,
+      "sourceMap": true,
+      "declaration": true,
+      "strict": true
+    }
+  }
+  
